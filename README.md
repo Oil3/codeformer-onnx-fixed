@@ -1,9 +1,11 @@
 # codeformer-onnx-fast
-onnx codeformer i found in my files that is half the size and faster
+onnx codeformer i found in my files that is half the size and faster.
+
+to use: rename/swap with the original model.
 
 Download from huggingspace [https://huggingface.co/Oil3/faster_codeformer_onnx](https://huggingface.co/Oil3/faster_codeformer_onnx])
 
-Direct model download: **[https://huggingface.co/Oil3/faster_codeformer_onnx/resolve/main/CodeFormerFaster.onnx](https://huggingface.co/Oil3/faster_codeformer_onnx/resolve/main/CodeFormerFaster.onnx)**
+Direct download from github: **[https://huggingface.co/Oil3/faster_codeformer_onnx/resolve/main/CodeFormerFaster.onnx](https://github.com/Oil3/codeformer-onnx-fast/releases/download/codeformer_onnx/CodeFormer_faster.onnx)
 
 "original" codeformer onnx sha256 9aa48fc4b21224d85784c9a58885201284ec8e590b988126db2c07495b421d36 filesize 376,821,951 bytes (376.8 MB on disk)
 
