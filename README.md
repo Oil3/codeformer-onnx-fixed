@@ -11,7 +11,7 @@ onnx codeformer i found in my files that is half the size and faster.
 
 to use: rename/swap with the original model.
 
-Download from huggingspace [https://huggingface.co/Oil3/faster_codeformer_onnx](https://huggingface.co/Oil3/faster_codeformer_onnx])
+Download from huggingspace [https://huggingface.co/Oil3/faster_codeformer_onnx](https://huggingface.co/Oil3/faster_codeformer_onnx)
 
 Direct download from github: [https://github.com/Oil3/codeformer-onnx-fast/releases/download/codeformer_onnx/CodeFormer_faster.onnx](https://github.com/Oil3/codeformer-onnx-fast/releases/download/codeformer_onnx/CodeFormer_faster.onnx)
 
