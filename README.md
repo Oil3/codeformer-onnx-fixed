@@ -1,12 +1,14 @@
-codeformer fp16
+codeformer fixed
 
-nov282023: It's the fp16 codeformer onnx model.
+dec042023: It's a mixed precision model that keep fp32 for inputs/ouputs, basically allows to just swap with the other model. Let's name it codeformer "fixed" because it notably removes the square bug.
+
+~~nov282023: It's the fp16 codeformer onnx model.~~
 
 Basically FP16 (Half-precision floating point format 16bis) uses 16bits in lieu of 32bits and reduces memory usage and increasing speed.
 
 
 
-# codeformer-FP16
+# codeformer-fixed
 onnx codeformer i found in my files that is half the size and faster.
 
 to use: rename/swap with the original model.
